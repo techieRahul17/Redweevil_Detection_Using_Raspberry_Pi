@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 .idea
+.DS_Store
+Backend/models/Pest-YOLOv11s.pt
